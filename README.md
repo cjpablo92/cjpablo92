@@ -8,11 +8,13 @@ Always interested into performance, code quality (Clean Code fan :stuck_out_tong
 
 #### Projects that i loved to work
 
-- Webapp + Archie: Split a monolithc Rails app into 2 new software pieces, a webapp built in next js that would store all the new pages that will interact via restfull APIs with the backend and a component library built using typescript and styled components to store all the generic/reusable components.
-- Marketplace vectors: Purely backend project
-- Fraud monitor: 
-- Chargebacks administration: 
-- Genexus: 
+- **Next js + React component library**: Split a monolithc Rails app into 2 new software pieces, a webapp built in next js that would store all the new pages that will interact via restfull APIs with the backend and a component library built using typescript and styled components to store all the generic/reusable components.
+- **Marchine learning vectors**: Purely backend project built using Java 8, Spark Java, Guice, Elastic search and Google big table, on a microservices ecosystem.</br>
+The main gol was to store machine learning data vectors for online and offline traning and evaluation. </br>
+The challenge in there was managing the amount of data (millons of RPM and terabytes of information), and deliver the data for online evaluation (sync on a near-real-time basis) under 200ms of response time.
+- **Anomaly detection system**: 
+- **Chargebacks administration**: Project built with Grails and Angular, to automate and manage chargebacks on a known payments platform in latin america.
+- **Genexus**: This a code generation platform to make programms easier to build, with no programming skills required. 
 
 #### 🔭 I’m currently working on
 
