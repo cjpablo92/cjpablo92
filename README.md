@@ -12,7 +12,7 @@ Always interested into performance, code quality (Clean Code fan :stuck_out_tong
 - **Marchine learning vectors**: Purely backend project built using Java 8, Spark Java, Guice, Elastic search and Google big table, on a microservices ecosystem.</br>
 The main gol was to store machine learning data vectors for online and offline traning and evaluation. </br>
 The challenge in there was managing the amount of data (millons of RPM and terabytes of information), and deliver the data for online evaluation (sync on a near-real-time basis) under 200ms of response time.
-- **Anomaly detection system**: 
+- **Anomaly detection system**: Monitor millons of payments a day trying to find anomalous and fraudulent trends (attacks). It was built using Java 8, Spark Java, Guice and a really fine tuned MySql database.
 - **Chargebacks administration**: Project built with Grails and Angular, to automate and manage chargebacks on a known payments platform in latin america.
 - **Genexus**: This a code generation platform to make programms easier to build, with no programming skills required. 
 
@@ -33,7 +33,7 @@ The challenge in there was managing the amount of data (millons of RPM and terab
  <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>
 </div>
 
-#### I had work in the past
+#### :rocket: I had work in the past
 
 ##### Languajes
 
@@ -69,7 +69,7 @@ The challenge in there was managing the amount of data (millons of RPM and terab
 </div>
 
 
-#### Tech I use
+#### :space_invader: Tech I use
 
 <div class="border d-flex">
   <img alt="Nginx" src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
