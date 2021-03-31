@@ -1,6 +1,19 @@
 ### Hi there 👋
 ![image](https://user-images.githubusercontent.com/17183291/112379740-49d4de80-8cc7-11eb-9d33-3986895376e5.png)
 
+Im passionate about technoloy, software architecture, research and innovation. Always looking for new challenges, things that keep my mind working and push the boundries of my experience/knowledge. I had work in many different projects from purely backend with millons of RPMs to carefully designed performant frontends. 
+On monolithic apps, libraries and microservices. 
+
+Always interested into performance, code quality (Clean Code fan :stuck_out_tongue:), scalable and clean architectural solution.
+
+#### Projects that i loved to work
+
+- Webapp + Archie: Split a monolithc Rails app into 2 new software pieces, a webapp built in next js that would store all the new pages that will interact via restfull APIs with the backend and a component library built using typescript and styled components to store all the generic/reusable components.
+- Marketplace vectors: Purely backend project
+- Fraud monitor: 
+- Chargebacks administration: 
+- Genexus: 
+
 #### 🔭 I’m currently working on
 
 <div class="border d-flex">
