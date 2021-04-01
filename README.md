@@ -2,8 +2,8 @@
 ![image](https://user-images.githubusercontent.com/17183291/112379740-49d4de80-8cc7-11eb-9d33-3986895376e5.png)
 
 Im passionate about technoloy, software architecture, research and innovation. Always looking for new challenges, things that keep my mind working and push the boundries of my experience/knowledge. I had work in many different projects from purely backend with millons of RPMs to carefully designed performant frontends. 
-On monolithic apps, libraries and microservices. 
-
+On monolithic apps, libraries and microservices.</br>
+On the other hand teaching at my university had been a hobby and something i really enjoy doing.</br>
 Always interested in performance, code quality (Clean Code fan :stuck_out_tongue:), scalable and clean architectural solutions.
 
 #### Projects that i loved to work
