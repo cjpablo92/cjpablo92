@@ -1,20 +1,18 @@
 ### Hi there 👋
 ![image](https://user-images.githubusercontent.com/17183291/112379740-49d4de80-8cc7-11eb-9d33-3986895376e5.png)
 
-Im passionate about technoloy, software architecture, research and innovation. Always looking for new challenges, things that keep my mind working and push the boundries of my experience/knowledge. I had work in many different projects from purely backend with millons of RPMs to carefully designed performant frontends. 
-On monolithic apps, libraries and microservices.</br>
-On the other hand teaching at my university had been a hobby and something i really enjoy doing.</br>
-Always interested in performance, code quality (Clean Code fan :stuck_out_tongue:), scalable and clean architectural solutions.
+I’m passionate about technology, software architecture, research, and innovation. Always looking for new challenges that keep my mind working and push the boundaries of my knowledge and experience, I have worked on many different projects. From pure backend with millions of RPMs to carefully designed performant frontends, and on monolithic apps, libraries, and microservices. I’m interested in performance, code quality (Clean Code fan 😛), scalable and clean architectural solutions.
 
-#### Projects that i loved to work
+Also, since 2018 I have been part of ORT Uruguay university’s teaching staff. Having the opportunity to work at the same university where I got my degree has been a very rewarding and enriching experience and something I enjoy doing.
 
-- **Next js + React component library**: Split a monolithc Rails app into 3 (2 new software pieces), a webapp built in next js that would store all the new pages that will interact via restfull APIs with the Rails backend and a component library built using typescript and styled components to store all the generic/reusable React components.
-- **Marchine learning vectors**: Purely backend project built using Java 8, Spark Java, Guice, Elastic search and Google big table, on a microservices ecosystem.</br>
-The main gol was to store machine learning data vectors for online and offline traning and evaluation. </br>
-The challenge in there was managing the amount of data (millons of RPM and terabytes of information), and deliver the data for online evaluation (sync on a near-real-time basis) under 200ms of response time.
-- **Anomaly detection system**: Monitor millons of payments a day trying to find anomalous and fraudulent trends (attacks). It was built using Java 8, Spark Java, Guice and a really fine tuned MySql database.
-- **Chargebacks administration**: Project built with Grails and Angular, to automate and manage chargebacks on a known payments platform in latin america.
-- **Genexus**: Code generation platform to make programms easier to build, with no programming skills required. 
+#### Projects that I have loved to work on
+
+- **Next js + React component library**: Split a monolithic Rails app into 3 (2 new software pieces), a web app built in next js that would store all the new pages that will interact via RESTful APIs with the Rails backend and a component library built using typescript and styled-components to store all the generic/reusable React components.
+- **Marchine learning vectors**: Purely backend project built using Java 8, Spark Java, Guice, Elastic search, and Google big table, on a microservices ecosystem.The main goal was to store machine learning data vectors for online and offline training and evaluation.
+The challenge here was managing the amount of data (millions of RPM and terabytes of information), and deliver the data for online evaluation (sync on a near-real-time basis) under 200ms of response time.
+- **Anomaly detection system**: Monitor millions of payments a day trying to find anomalous and fraudulent trends (attacks). It was built using Java 8, Spark Java, Guice, and a fine-tuned MySql database.
+- **Chargebacks administration**: Project built with Grails and Angular, to automate and manage chargebacks on a well-known payment platform in Latin America.
+- **Genexus**: Code generation platform to make programs easier to build, with no programming skills required.
 
 #### 🔭 I’m currently working on
 
