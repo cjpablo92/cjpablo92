@@ -3,7 +3,8 @@
 
 I’m passionate about technology, software architecture, research, and innovation. Always looking for new challenges that keep my mind working and push the boundaries of my knowledge and experience, I have worked on many different projects. From pure backend with millions of RPMs to carefully designed performant frontends, and on monolithic apps, libraries, and microservices. I’m interested in performance, code quality (Clean Code fan 😛), scalable and clean architectural solutions.
 
-Also, since 2018 I have been part of ORT Uruguay university’s teaching staff. Having the opportunity to work at the same university where I got my degree has been a very rewarding and enriching experience and something I enjoy doing.
+Also, since 2018 I have been part of ORT Uruguay university’s teaching staff. I have been in charge of teaching both theoretical and practical subjects. For example, in Programming 1, I give the students the first approach to programming from scratch by teaching the theoretical concepts and then I help them apply that to a particular language (Javascript); in Programming 2, the focus is on software design quality, and we see in more detail object-oriented programming (we see it in Java). And finally, Programming for Biotechnology is also the first approach to programming but targeted to a profile that needs more problem solving through programming and we focus rather on scripting. Having the opportunity to work at the same university where I got my degree has been a very rewarding and enriching experience and something I enjoy doing.
+
 
 #### Projects that I have loved to work on
 
